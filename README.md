@@ -1,10 +1,5 @@
----
-id: Manual da Sede da Maratona Paulista
-aliases: []
-tags: []
----
 
-# Manual de Sede de Maratona de Programação
+# Maratona de Programação - Manual de Sede
 
 Este manual consolida as principais orientações para organizar uma sede da Maratona (Paulista?) de Programação. O objetivo é apoiar a preparação da infraestrutura, a definição da equipe, a organização dos espaços e a execução dos fluxos operacionais no dia da competição.
 
